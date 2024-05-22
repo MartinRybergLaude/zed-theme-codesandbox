@@ -1,0 +1,7 @@
+id = "codesandbox"
+name = "CodeSandbox Theme"
+schema_version = 1
+version = "0.0.1"
+authors = ["Martin Ryberg Laude <martin@mrlaude.com>"]
+description = "An unofficial CodeSandbox theme for Zed"
+repository = "https://github.com/martinryberglaude/zed-theme-codesandbox"
