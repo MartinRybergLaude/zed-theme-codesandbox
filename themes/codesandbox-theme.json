@@ -72,7 +72,7 @@
         "terminal.bright_foreground": null,
         "terminal.dim_foreground": null,
         "terminal.ansi.black": null,
-        "terminal.ansi.bright_black": null,
+        "terminal.ansi.bright_black": "#666666",
         "terminal.ansi.dim_black": null,
         "terminal.ansi.red": null,
         "terminal.ansi.bright_red": null,
