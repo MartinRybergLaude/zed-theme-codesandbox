@@ -182,7 +182,7 @@
             "font_weight": null
           },
           "keyword": {
-            "color": "#A390FF",
+            "color": "#CABEFF",
             "font_style": null,
             "font_weight": null
           },
@@ -262,6 +262,11 @@
             "font_weight": null
           },
           "tag": {
+            "color": "#A390FF",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type": {
             "color": "#A390FF",
             "font_style": null,
             "font_weight": null
